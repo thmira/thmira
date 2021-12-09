@@ -2,7 +2,6 @@
 
 <ul style="list-style-type : none;">
 <li> 🎈 Tenho 22 anos </li>
-<li> 🖥️ Estou cursando o Bootcamp de Desenvolvimento Java pela Generation Brasil </li>
 <li> 🧑🏻‍💻 Apaixonado por tecnologia e em busca de conhecimento!</li>
 </ul> 
 
