@@ -1,8 +1,6 @@
 ## Hey, eu sou o Thiago, mas pode me chamar de Mira!
 
 <ul style="list-style-type : none;">
-<li> 🎈 Tenho 22 anos </li>
-<li> 🧑🏻‍💻 Apaixonado por tecnologia e em busca de conhecimento!</li>
 </ul> 
 
 <br>
